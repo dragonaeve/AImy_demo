@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/dragonaeve/AImy_demo/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+{% include googleDrivePlayer.html id=page.driveId %}
+
+### Project Video PPT + Demo
+https://drive.google.com/open?id=1JjqZxh82AN6Nq_4pPKPJ5Bxzcp3L_4VN
+
+### Initial Prototype Demo
+https://drive.google.com/file/d/13rqrs4slJFS_X1wtDrJ6IoMoih_bkDVf/view?usp=sharing
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
